@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.step-form{
+  width: 400px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.step-form div{
+  display: flex;
+  flex-direction: column;
+}
+button{
+  font-size: 16px;
+  padding: 15px 10px;
+  margin-left: 10px; 
+  margin-right: 10px;
+}
